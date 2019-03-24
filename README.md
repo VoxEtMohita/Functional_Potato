@@ -1,14 +1,15 @@
-# bard-tweets
+#  Functional_Potato
+A twitter bot that randomly tweets poetry using a Markov chain that
+travels through
 
-A Clojure library designed to ... well, that part is up to you.
 
-## Usage
+- Poetry by:
+  - Edger Allen Poe
+  - Mary Elizabeth Frye
+  - Pablo Neruda
+  - William Ernest Henry
+- Wikipedia text on potatos
 
-FIXME
 
-## License
-
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Say hi at the  [Functional Potato](https://twitter.com/the_bard_tweets)
+Twitter handle!
