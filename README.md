@@ -1,4 +1,4 @@
-#  Functional_Potato
+#  Functional Potato
 A twitter bot that randomly tweets poetry using a Markov chain that
 travels through
 
@@ -13,3 +13,4 @@ travels through
 
 Say hi at the  [Functional Potato](https://twitter.com/the_bard_tweets)
 Twitter handle!
+Deployed on Heroku for continous tweets to annoy people a few times a day.
